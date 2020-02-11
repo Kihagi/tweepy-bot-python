@@ -2,8 +2,9 @@
 .env
 .venv
 env/
+.venv/
 venv/
-ENV/
 
 ### Pycharm ###
-.idea
+.idea/
+env_variables.env
